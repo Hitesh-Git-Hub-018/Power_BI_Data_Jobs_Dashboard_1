@@ -1,6 +1,6 @@
-# Data Jobs Dashboard w/ Power BI
+# Data Jobs Dashboard  Power BI
 
-![Dashboard Page 1](/Dashboard_01_page_01.png)
+![Dashboard Page 1](![Dashboard Page 1](Images/Dashboard_01_page_01.png))
 
 ## Introduction
 
@@ -37,7 +37,7 @@ The dashboard transforms raw data into meaningful visualizations, allowing users
 
 ### Page 1: High-Level Market View
 
-![Dashboard Page 1](/Dashboard_01_page_01.png)
+![Dashboard Page 1](/Images/Dashboard_01_page_01.png)
 
 The main dashboard provides an overview of the global data job market, allowing users to explore key hiring and salary insights through interactive visuals.
 
@@ -54,7 +54,7 @@ The main dashboard provides an overview of the global data job market, allowing 
 
 ### Page 2: Job Title Drill-Through
 
-![Dashboard Page 2](/Dashboard_01_page_02.png)
+![Dashboard Page 2](//Images/Dashboard_01_page_02.png)
 
 The drill-through page provides a detailed analysis of an individual job role, helping users better understand specific career opportunities.
 
